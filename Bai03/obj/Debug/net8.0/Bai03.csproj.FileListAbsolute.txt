@@ -1,0 +1,14 @@
+D:\UIT\LTTQ\BTH1_DinhThiQuynhHuong_24520640\Bai03\bin\Debug\net8.0\Bai03.exe
+D:\UIT\LTTQ\BTH1_DinhThiQuynhHuong_24520640\Bai03\bin\Debug\net8.0\Bai03.deps.json
+D:\UIT\LTTQ\BTH1_DinhThiQuynhHuong_24520640\Bai03\bin\Debug\net8.0\Bai03.runtimeconfig.json
+D:\UIT\LTTQ\BTH1_DinhThiQuynhHuong_24520640\Bai03\bin\Debug\net8.0\Bai03.dll
+D:\UIT\LTTQ\BTH1_DinhThiQuynhHuong_24520640\Bai03\bin\Debug\net8.0\Bai03.pdb
+D:\UIT\LTTQ\BTH1_DinhThiQuynhHuong_24520640\Bai03\obj\Debug\net8.0\Bai03.GeneratedMSBuildEditorConfig.editorconfig
+D:\UIT\LTTQ\BTH1_DinhThiQuynhHuong_24520640\Bai03\obj\Debug\net8.0\Bai03.AssemblyInfoInputs.cache
+D:\UIT\LTTQ\BTH1_DinhThiQuynhHuong_24520640\Bai03\obj\Debug\net8.0\Bai03.AssemblyInfo.cs
+D:\UIT\LTTQ\BTH1_DinhThiQuynhHuong_24520640\Bai03\obj\Debug\net8.0\Bai03.csproj.CoreCompileInputs.cache
+D:\UIT\LTTQ\BTH1_DinhThiQuynhHuong_24520640\Bai03\obj\Debug\net8.0\Bai03.dll
+D:\UIT\LTTQ\BTH1_DinhThiQuynhHuong_24520640\Bai03\obj\Debug\net8.0\refint\Bai03.dll
+D:\UIT\LTTQ\BTH1_DinhThiQuynhHuong_24520640\Bai03\obj\Debug\net8.0\Bai03.pdb
+D:\UIT\LTTQ\BTH1_DinhThiQuynhHuong_24520640\Bai03\obj\Debug\net8.0\Bai03.genruntimeconfig.cache
+D:\UIT\LTTQ\BTH1_DinhThiQuynhHuong_24520640\Bai03\obj\Debug\net8.0\ref\Bai03.dll

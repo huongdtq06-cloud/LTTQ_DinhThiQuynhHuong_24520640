@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UIT\\LTTQ\\BTH1_DinhThiQuynhHuong_24520640\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5140F6F0-FD94-4E2A-ABE0-4826DE10ABB3}|Bai06\\Bai06.csproj|d:\\uit\\lttq\\bth1_dinhthiquynhhuong_24520640\\bai06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5140F6F0-FD94-4E2A-ABE0-4826DE10ABB3}|Bai06\\Bai06.csproj|solutionrelative:bai06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604B8AB7-02FE-4951-B60D-D71AAC1872B8}|Bai05\\Bai05.csproj|d:\\uit\\lttq\\bth1_dinhthiquynhhuong_24520640\\bai05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604B8AB7-02FE-4951-B60D-D71AAC1872B8}|Bai05\\Bai05.csproj|solutionrelative:bai05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493A400F-11E6-4E17-9766-5FD180A2F403}|Bai03\\Bai03.csproj|d:\\uit\\lttq\\bth1_dinhthiquynhhuong_24520640\\bai03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493A400F-11E6-4E17-9766-5FD180A2F403}|Bai03\\Bai03.csproj|solutionrelative:bai03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71123240-B91B-4240-AF79-177079399E33}|Bai02\\Bai02.csproj|d:\\uit\\lttq\\bth1_dinhthiquynhhuong_24520640\\bai02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71123240-B91B-4240-AF79-177079399E33}|Bai02\\Bai02.csproj|solutionrelative:bai02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01CDC47-0ACE-411D-B101-7C7C1D39A1D9}|Bai04\\Bai04.csproj|d:\\uit\\lttq\\bth1_dinhthiquynhhuong_24520640\\bai04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01CDC47-0ACE-411D-B101-7C7C1D39A1D9}|Bai04\\Bai04.csproj|solutionrelative:bai04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD52716-D1E0-43AC-8315-0A2BDB0413F6}|Bai01\\Bai01.csproj|d:\\uit\\lttq\\bth1_dinhthiquynhhuong_24520640\\bai01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD52716-D1E0-43AC-8315-0A2BDB0413F6}|Bai01\\Bai01.csproj|solutionrelative:bai01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UIT\\LTTQ\\BTH1_DinhThiQuynhHuong_24520640\\Bai06\\Program.cs",
+              "RelativeDocumentMoniker": "Bai06\\Program.cs",
+              "ToolTip": "D:\\UIT\\LTTQ\\BTH1_DinhThiQuynhHuong_24520640\\Bai06\\Program.cs",
+              "RelativeToolTip": "Bai06\\Program.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAADwv6UAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T04:22:22.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UIT\\LTTQ\\BTH1_DinhThiQuynhHuong_24520640\\Bai05\\Program.cs",
+              "RelativeDocumentMoniker": "Bai05\\Program.cs",
+              "ToolTip": "D:\\UIT\\LTTQ\\BTH1_DinhThiQuynhHuong_24520640\\Bai05\\Program.cs",
+              "RelativeToolTip": "Bai05\\Program.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAwwGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T02:51:25.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UIT\\LTTQ\\BTH1_DinhThiQuynhHuong_24520640\\Bai03\\Program.cs",
+              "RelativeDocumentMoniker": "Bai03\\Program.cs",
+              "ToolTip": "D:\\UIT\\LTTQ\\BTH1_DinhThiQuynhHuong_24520640\\Bai03\\Program.cs",
+              "RelativeToolTip": "Bai03\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T01:36:40.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UIT\\LTTQ\\BTH1_DinhThiQuynhHuong_24520640\\Bai01\\Program.cs",
+              "RelativeDocumentMoniker": "Bai01\\Program.cs",
+              "ToolTip": "D:\\UIT\\LTTQ\\BTH1_DinhThiQuynhHuong_24520640\\Bai01\\Program.cs",
+              "RelativeToolTip": "Bai01\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAYwDIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T01:02:18.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UIT\\LTTQ\\BTH1_DinhThiQuynhHuong_24520640\\Bai04\\Program.cs",
+              "RelativeDocumentMoniker": "Bai04\\Program.cs",
+              "ToolTip": "D:\\UIT\\LTTQ\\BTH1_DinhThiQuynhHuong_24520640\\Bai04\\Program.cs",
+              "RelativeToolTip": "Bai04\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T02:27:39.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UIT\\LTTQ\\BTH1_DinhThiQuynhHuong_24520640\\Bai02\\Program.cs",
+              "RelativeDocumentMoniker": "Bai02\\Program.cs",
+              "ToolTip": "D:\\UIT\\LTTQ\\BTH1_DinhThiQuynhHuong_24520640\\Bai02\\Program.cs",
+              "RelativeToolTip": "Bai02\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswBgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T01:35:54.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
