@@ -2,8 +2,8 @@
 {
     class NhaPho : KhuDat
     {
-        public int NamXayDung { get; set; }
-        public int SoTang { get; set; }
+        public int NamXayDung { get;private set; }
+        public int SoTang { get;private set; }
 
         public NhaPho(string diaDiem = "unknown", double giaBan = 0, double dienTich = 0,int namXayDung=0, int soTang=0)
             : base(diaDiem,giaBan,dienTich) 

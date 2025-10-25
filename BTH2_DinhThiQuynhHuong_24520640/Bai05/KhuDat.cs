@@ -1,9 +1,9 @@
 ﻿class KhuDat
 {
-    public string DiaDiem { get; set; }
-    public double GiaBan { get; set; }
-    public double DienTich { get; set; }
-    public int loai { get; set; }
+    public string DiaDiem { get; protected set; }
+    public double GiaBan { get; protected set; }
+    public double DienTich { get;protected set; }
+    public int loai { get;protected set; }
 
     public KhuDat(string diaDiem="unknown", double giaBan=0, double dienTich=0)
     {

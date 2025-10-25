@@ -4,8 +4,8 @@
     {
         class PhanSo
         {
-            public int Tu { get; set; }
-            public int Mau { get; set; }
+            public int Tu { get;private set; }
+            public int Mau { get; private set; }
             public double GiaTri => (double)Tu / Mau;
 
             public PhanSo(int tu = 0, int mau = 1)

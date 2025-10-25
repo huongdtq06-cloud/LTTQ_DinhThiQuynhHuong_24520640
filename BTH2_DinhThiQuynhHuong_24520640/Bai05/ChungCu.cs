@@ -3,7 +3,7 @@ namespace Bai05
 {
     class ChungCu : KhuDat
     {
-        public int Tang { get; set; }
+        public int Tang { get;private set; }
         public ChungCu(string diaDiem = "unknown", double giaBan = 0, double dienTich = 0,int tang=0)
             :base(diaDiem,giaBan,dienTich) 
         {
